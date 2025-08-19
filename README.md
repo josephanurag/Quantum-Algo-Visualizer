@@ -24,6 +24,9 @@ cd quantum-algorithm-visualizer
 pip install -r requirements.txt
 streamlit run app.py
 
+LIVE LINK:
+https://quantum-al.streamlit.app/
+
 ### Deployment (Streamlit Cloud)
 1. Push to GitHub
 2. Go to [Streamlit Cloud](https://streamlit.io/cloud)
